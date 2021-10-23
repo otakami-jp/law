@@ -277,7 +277,7 @@
       "text": [
         {
           "type": "list-with-introducing",
-          "intoducing": "Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:",
+          "introducing": "Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:",
           "list": [
             "1. Build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;",
 

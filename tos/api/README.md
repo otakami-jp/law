@@ -122,7 +122,7 @@ Otakami supports data portability. For as long as you use or store any user data
 
 ### e. Prohibitions on Content
 
-undefined
+Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:
 
 1. Build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
 
