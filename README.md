@@ -26,6 +26,6 @@ async function getTos(revision) {
 
   const revision = await getRevision(date);
 
-  return axios.get(`https://tos.core.dev.otaka.me/tos/api/${revision}`)
+  return axios.get(`https://tos.core.otaka.me/tos/api/${revision}`)
 }
 ```
